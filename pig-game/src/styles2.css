@@ -1,0 +1,46 @@
+button {
+    height: 50px;
+    width: 100px;
+    background-color: whitesmoke;
+}
+
+form {
+    margin-bottom: 50px;;
+}
+
+input {
+    height: 30px;
+    width: 300px;
+}
+
+.full {
+    text-align: center;
+    height: 1000px;
+    width: 1000px;
+    background-color: black;
+}
+
+.div1 {
+    height: 300px;
+    width: 300px;
+    background-color: tomato;
+    margin: 10px;
+    position: relative;
+    float: right;
+}
+.div2 {
+    height: 300px;
+    width: 300px;
+    background-color: greenyellow;
+    margin: 10px;
+    position: relative;
+    float: right;
+}
+.div3 {
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    margin: 10px;
+    position: relative;
+    float: right;
+}

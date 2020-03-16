@@ -1,0 +1,13 @@
+.first {
+  height: 500px;
+  width: 500px;
+  background-color: blanchedalmond;
+  text-align: center;
+  margin: auto;
+  margin-top: 200px;
+}
+
+h3 {
+  margin-top: 20px;
+  font-size: 40px;
+}
